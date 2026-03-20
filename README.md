@@ -1,4 +1,4 @@
-### Ola! Me Chamo Eduardo Arlindo, Iniciante na Aréa de Progamação e em Busca de conhecimento. 🐤
+### Ola! Me Chamo Eduardo Arlindo, em Busca de conhecimento. 🐤
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-arlindo-4a938521a/)
 
